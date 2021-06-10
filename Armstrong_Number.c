@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<math.
+#include<math.h>
 int main()
 {
 	int num,dc=0,a,b=0,res=0,rem;//dc=Digit Count
